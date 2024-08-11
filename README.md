@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mike-mr&theme=dark"> <!-- most used languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-mike-mr&theme=dark"> <!-- github stats -->
+  
+  # Hello, world! 👋
+  [Portfolio](https://mr-mike-mr.github.io/mrm-portfolio-v2/) - [Discord](https://discord.com/invite/mCCj29zSwH) - [Personal email](mr_mike_eu@proton.me) - [Business email](mr_mike_business@proton.me) - [Spotify](https://open.spotify.com/user/31jqrdtnm4stjqr5hrtl4yendbta)
   <br>
-  <img src='https://spotify-recently-played-readme.vercel.app/api?user=31jqrdtnm4stjqr5hrtl4yendbta&count=8&unique=true' alt='Spotify recently played'/> <!-- spotify recently played -->
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-mike-mr&theme=dark">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mike-mr&theme=dark">
 </div>
