@@ -15,7 +15,7 @@
   [ ![Business email](https://img.shields.io/badge/Business_email-444444?style=for-the-badge&logo=protonmail&logoColor=d9d9d9) ](mr_mike_business@proton.me)
   [ ![Spotify](https://img.shields.io/badge/Spotify-444444?style=for-the-badge&logo=spotify&logoColor=d9d9d9) ](https://open.spotify.com/user/31jqrdtnm4stjqr5hrtl4yendbta)
 
-  ## 📊 Github
+  ## 📊 Stats
 
   <img src="https://github-readme-stats.vercel.app/api?username=mr-mike-mr&theme=dark">
   <br>
