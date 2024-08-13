@@ -4,7 +4,7 @@
 
   👨🏼‍💻 I am a developer of websites and web applications.
   <br>
-  🔗 My portfolio website: https://mr-mike-mr.github.io/mrm-portfolio-v2
+  🔗 My portfolio: https://mr-mike-mr.github.io/mrm-portfolio-v2
   <br>
 
   ## 🌐 Socials
