@@ -2,6 +2,8 @@
   
   # Hello, world! 👋
 
+  <img src='https://i.imgur.com/P3eftiN.png' style="width: 500px">
+  
   👨🏼‍💻 I am a developer of websites and web applications.
   <br>
   🔗 My portfolio: https://mr-mike-mr.github.io/mrm-portfolio-v2
