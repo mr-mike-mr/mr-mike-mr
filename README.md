@@ -5,7 +5,9 @@
   <img src='https://i.imgur.com/P3eftiN.png' style="width: 500px">
   
   👨🏼‍💻 I am a developer of websites and web applications.
+  <br>
   🎮 Free time player and game developer.
+  <br>
   🚗 Car lover (BMW 🫵)
   <br> 
 
