@@ -2,7 +2,7 @@
   
   # Hello, world! 👋
 
-  <img src='https://i.imgur.com/P3eftiN.png' style="width: 500px">
+  <img src='https://i.imgur.com/RlA4kUT.png' style="width: 500px">
   
   👨🏼‍💻 I am a developer of websites and web applications.
   <br>
