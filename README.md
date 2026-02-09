@@ -20,10 +20,4 @@
   [ ![Support email](https://img.shields.io/badge/Support_email-444444?style=for-the-badge&logo=protonmail&logoColor=d9d9d9) ](mr_mike_support@proton.me)
   <br>
   [ ![Spotify](https://img.shields.io/badge/Spotify-444444?style=for-the-badge&logo=spotify&logoColor=d9d9d9) ](https://open.spotify.com/user/31jqrdtnm4stjqr5hrtl4yendbta)
-
-  ## 📊 Stats
-
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-mike-mr&theme=dark">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mike-mr&theme=dark">
 </div>
