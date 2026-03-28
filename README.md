@@ -8,7 +8,7 @@
   <br>
   🎮 Free time player and game developer.
   <br>
-  🚗 Car lover (BMW 🫵)
+  🚗 Car lover (SKODA 🫵)
   <br> 
 
   ## 🌐 Socials
